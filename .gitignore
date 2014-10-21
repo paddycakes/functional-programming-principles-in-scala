@@ -2,6 +2,7 @@
 .settings
 .project
 
+.cache
 target/
 lib_managed/
 submission/
